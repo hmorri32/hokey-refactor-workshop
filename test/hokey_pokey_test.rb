@@ -15,7 +15,7 @@ VERSE
   end
 
   def test_verse_2
-    skip
+    
     expected = <<-VERSE
 You put your left foot in
 You put your left foot out
@@ -28,7 +28,7 @@ VERSE
   end
 
   def test_verse_3
-    skip
+    
     expected = <<-VERSE
 You put your right hand in
 You put your right hand out
@@ -42,7 +42,7 @@ VERSE
   end
 
   def test_verse_4
-    skip
+    
     expected = <<-VERSE
 You put your left hand in
 You put your left hand out
@@ -56,7 +56,7 @@ VERSE
   end
 
   def test_verse_5
-    skip
+    
     expected = <<-VERSE
 You put your head in
 You put your head out
@@ -83,7 +83,7 @@ VERSE
   end
 
   def test_the_whole_song
-    skip
+    
     expected = <<-SONG
 You put your right foot in
 You put your right foot out
