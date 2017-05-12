@@ -66,7 +66,6 @@ VERSE
   end
 
   def test_verse_6
-    skip
     expected = <<-VERSE
 You put your whole self in
 You put your whole self out
@@ -80,7 +79,6 @@ VERSE
   end
 
   def test_the_whole_song
-    skip
     expected = <<-SONG
 You put your right foot in
 You put your right foot out
